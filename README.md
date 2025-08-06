@@ -13,7 +13,7 @@ This Android App is the Udacity Nanodegree project-3 Stock Hawk. This applicatio
   </tr>
 </table>
 
-Libraries and tools included:
+Libraries and tools included    :
 
 - Support libraries
 - RecyclerViews and CardViews 
